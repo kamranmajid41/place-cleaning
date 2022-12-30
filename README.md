@@ -1,6 +1,6 @@
 # place-cleaning
 
-A simple flask app built to clean data. 
+Flask app for data cleaning. 
 
 ## Running the app
 
