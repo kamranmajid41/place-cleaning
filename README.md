@@ -24,7 +24,6 @@ Run the app
 flask run 
 ```
 
-## Using the app 
 
 
 
