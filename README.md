@@ -1,6 +1,8 @@
 # place-cleaning
 
-## To run 
+A simple flask app built to clean data. 
+
+## Running the app
 
 Clone the repo: 
 ```
@@ -21,4 +23,10 @@ Run the app
 ``` 
 flask run 
 ```
+
+## Using the app 
+
+
+
+
 
